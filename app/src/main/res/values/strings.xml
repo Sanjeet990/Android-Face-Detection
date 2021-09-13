@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Face Detection</string>
+    <string name="permission">Permission</string>
+    <string name="permission_justification">Read permission to storage is required to select the image the file. Without this permission face detection woudn\'t be possible. Please click the allow button below and grant the permission manually.</string>
+    <string name="cancel">Cancel</string>
+    <string name="allow">Allow</string>
+    <string name="select_file_to_scan">Select an image with face</string>
+</resources>
